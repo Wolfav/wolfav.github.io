@@ -27,7 +27,7 @@
         "isGhostButtonBorder": false,
         "underlinedLinks": false,
         "isAnimatedOnScroll": false,
-        "isScrollToTopButton": true
+        "isScrollToTopButton": false
       },
       "additionalSetColors": []
     },
@@ -62,7 +62,7 @@
       "textButton": "Agree"
     },
     "favicon": false,
-    "mbrsiteDomain": "1stpxktftm",
+    "mbrsiteDomain": "ryps4cjiur",
     "gdpr": {
       "colorText": "#a7a7a7",
       "colorLink": "#149dcc",
